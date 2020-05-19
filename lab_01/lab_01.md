@@ -308,3 +308,5 @@ https://eu-west-1.integration.cloud.tibcoapps.com:443/frgqmblc7i7bi5muq7oqzgb6l5
 
 
 Je kunt uiteraard ook met Postman en/of soapUI testen, of de [Request URL](#Request URL) van je eerste Flogo app gewoon in je browser plakken ...
+
+[Next Lab](https://github.com/Bart-2020/rubix-tci-flogo/blob/master/lab_02/lab_02.md)
