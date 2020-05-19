@@ -8,7 +8,7 @@
 
 Een Flogo App is te vatten in onderstaand - eenvoudig - model:
 
-![](FlogoApp model.jpg)
+![](https://github.com/Bart-2020/rubix-tci-flogo/blob/master/lab_01/FlogoApp model.jpg)
 
 Handig dit plaatje steeds in het achterhoofd te hebben.
 
