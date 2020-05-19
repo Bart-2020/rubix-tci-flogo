@@ -1,6 +1,6 @@
 # Rubix-TCI-Flogo
 
-[Start Lab](C:/my-github.com/rubix-tci-flogo/lab_01/lab_01.md)
+[Start Lab](https://github.com/Bart-2020/rubix-tci-flogo/blob/master/lab_01/lab_01.md)
 
 
 
