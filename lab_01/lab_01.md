@@ -1,4 +1,4 @@
-[Next Lab](C:/my-github.com/rubix-tci-flogo/lab_02/lab_02.md)
+[Next Lab](https://github.com/Bart-2020/rubix-tci-flogo/blob/master/lab_02/lab_02.md)
 
 # LAB-01 Maak een Flogo app op het TIBCO Cloud™ Integration platform (iPaaS).
 
