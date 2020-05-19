@@ -1,4 +1,4 @@
-[Next Lab](C:/my-github.com/rubix-tci-flogo/lab_03/lab_03.md)
+[Next Lab](https://github.com/Bart-2020/rubix-tci-flogo/blob/master/lab_03/lab_03.md)
 
 # LAB-02 Maak een app die de som van twee getallen teruggeeft.
 
