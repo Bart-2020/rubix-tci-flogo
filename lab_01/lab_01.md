@@ -29,7 +29,7 @@ Daarna zijn we klaar om te gaan testen. We voeren twee tests uit:
 - Ten slotte testen we de Flogo App (een RESTService) nadat we deze pushed (deployed) hebben.
   We sturen een test-trigger (service request) en checken de reply message.
 
-Na elk stap (stoppen we even en doen we een korte evaluatie en/of check.
+Na elke stap stoppen we even en doen we een korte evaluatie en/of check.
 
 
 
