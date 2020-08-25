@@ -43,9 +43,9 @@ Ga naar [TIBCO Cloud™](https://eu.account.cloud.tibco.com/manage/home) en aan 
 Click op de *Integration* hyve en daarna door naar [Integration Apps](https://eu.integration.cloud.tibco.com/applications).
 Rechtsboven zie je de blauwe *Create/Import* button.
 
-Kies onder Develop voor *Flogo* en de blauwe *Create New App* button. *Create* je app door de Flow een naam te geven en een Trigger toe te voegen.
+Kies onder "Develop" voor *Flogo* en de blauwe *Create New App* button. *Create* je app door onder "Create new" een Trigger toe te voegen.
 
-Zoals hieboven aangegeven, starten we met het configureren van deze Trigger.
+Zoals hieboven aangegeven, starten we met het maken en configureren van de Trigger.
 
 
 
@@ -55,7 +55,15 @@ Zoals hieboven aangegeven, starten we met het configureren van deze Trigger.
 
 We bouwen een RESTService, dus we hebben een HTTP connector nodig. Click op de + en blader eens door de Triggers catalog.
 
-Kies voor een *Receive HTTP Message* trigger. Configureer deze Trigger (zonder swagger te uploaden - Configure Using API Specs = False):
+Kies voor een *Receive HTTP Message* trigger. *Create* deze Trigger (zonder swagger te uploaden - Configure Using API Specs = False):
+
+Trigger Settings - Port:
+
+```
+8443
+```
+
+Je komt nu in de "Trigger View" en daar voegen we eerst een *+New Flow* toe, door 'm enkel een naam te geven. Daarna gaan we weer verder met het configureren van de *Receive HTTP Message* trigger.
 
 Method:
 
@@ -75,11 +83,7 @@ Kies na *Continue* ervoor de gedefinieerde Trigger output gelijk aan de Flow inp
 
 Ga verder met de Trigger configuratie (icoontje met oranje waarschuwingsdriehoekje - omdat de trigger --> flow mappings ontbreken)
 
-Trigger Settings - Port:
 
-```
-8443
-```
 
 Check de Path Parameter "tekst" bij Output Settings.
 
