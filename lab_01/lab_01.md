@@ -40,10 +40,11 @@ Ga naar [TIBCO Cloud™](https://eu.account.cloud.tibco.com/manage/home) en aan 
 
 
 ### Flogo App
+Click op de *Integration* hyve en daarna door naar [Integration Apps](https://eu.integration.cloud.tibco.com/applications).
+Rechtsboven zie je de blauwe *Create/Import* button.
 
-Begin met *Create* van de *Flogo* app (met *Public* endpoint visibility). Hier geef je de app een naam. Daarna kom je op de *Implementation* tab en *Create* je een Flow. Geef ook de flow een naam.
-
-Zoals hieboven aangegeven, starten we met het configureren van een Trigger.
+Kies onder Develop voor *Flogo* en de blauwe *Create New App* button. *Create* je app door de flow een naam te geven en een Trigger toe te voegen
+Zoals hieboven aangegeven, starten we met het configureren van deze Trigger.
 
 
 
