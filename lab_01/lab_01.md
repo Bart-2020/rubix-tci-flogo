@@ -43,7 +43,8 @@ Ga naar [TIBCO Cloud™](https://eu.account.cloud.tibco.com/manage/home) en aan 
 Click op de *Integration* hyve en daarna door naar [Integration Apps](https://eu.integration.cloud.tibco.com/applications).
 Rechtsboven zie je de blauwe *Create/Import* button.
 
-Kies onder Develop voor *Flogo* en de blauwe *Create New App* button. *Create* je app door de Flow een naam te geven en een Trigger toe te voegen
+Kies onder Develop voor *Flogo* en de blauwe *Create New App* button. *Create* je app door de Flow een naam te geven en een Trigger toe te voegen.
+
 Zoals hieboven aangegeven, starten we met het configureren van deze Trigger.
 
 
