@@ -274,9 +274,9 @@ Flow execution successful
 
 ### Testen RESTService - API[5/5] 
 
-Test de RESTService API met *Push app*. De Flogo App is nu deployed en je kunt 'm runnen door op te schalen van 0 naar 1 met ^ en *Scale*.
+Test de RESTService API met de blauwe *Push* button. De Flogo App is nu deployed en je kunt 'm runnen door op te schalen van 0 naar 1 met ^ en *Scale* (of door op je applications pagina gewoon *Run* te clicken).
 
-Je hebt nu 1 running instance die je kunt testen op het aangegeven "1 Endpoint". Kies daar *View en Test*.
+Je hebt nu 1 running instance die je kunt testen op het (onder "Endpoints") aangegeven public Endpoint. Kies daar *Test*.
 
 Vul een tekst value in en *Try it out!*
 
