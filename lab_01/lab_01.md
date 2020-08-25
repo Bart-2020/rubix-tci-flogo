@@ -243,7 +243,7 @@ Je geeft natuurlijk altijd 200 OK terug :-)
 
 ### Testen van de Flow[4/5]
 
-Met *Start testing*  kunnen we nu deze Flow testen. *Create a Launch Configuration* door het invullen van je flow test input bij Mapping settings:
+Met de blauwe *Test* button kunnen we nu deze Flow testen. *Create a Launch Configuration* door het invullen van je flow test input bij Mapping settings:
 
 **{}**   flowInputs   >   **{}**   pathParams   **a..**   tekst
 
@@ -254,8 +254,9 @@ Met *Start testing*  kunnen we nu deze Flow testen. *Create a Launch Configurati
 Na *Next* zie je je input settings bevestigd en *Run* start de flow test. De test output (INFO log) op je console output:
 
 ```json
-TIBCO Flogo® Runtime - 2.8.1 (Powered by Project Flogo™ - v0.10.1)
-2020-05-13T11:10:19.964Z INFO [flogo.flow] - Instance [b4decf1ec69f50c0b8b8124a37d9ca27] Done
+2020-08-25T19:20:43.206Z INFO [flogo] - Starting event publisher
+TIBCO Flogo® Runtime - 2.9.0 (Powered by Project Flogo™ - v1.0.0)
+2020-08-25T19:20:43.250Z INFO [flogo.flow] - Instance [7a4767900a94e547d7263d3339865c78] Done
 Flow execution successful
 {
 "code": 200,
