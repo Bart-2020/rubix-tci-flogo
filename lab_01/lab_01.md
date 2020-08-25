@@ -283,13 +283,13 @@ Vul een tekst value in en *Try it out!*
 #### Curl
 
 ```
-curl -X GET --header 'Accept: application/json' 'https://eu-west-1.integration.cloud.tibcoapps.com:443/frgqmblc7i7bi5muq7oqzgb6l5h2tesf/groeten/Daaaag'
+curl -X GET "https://eu-west-1.integration.cloud.tibcoapps.com:443/zolm26ucoicnhu5tjciohjuv3rizxtyt/groeten/Daaaag" -H "accept: application/json"
 ```
 
 #### Request URL
 
 ```
-https://eu-west-1.integration.cloud.tibcoapps.com:443/frgqmblc7i7bi5muq7oqzgb6l5h2tesf/groeten/Daaaag
+https://eu-west-1.integration.cloud.tibcoapps.com:443/zolm26ucoicnhu5tjciohjuv3rizxtyt/groeten/Daaaag
 ```
 
 #### Response Body
